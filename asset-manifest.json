@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sofianosss.github.io/Leaflet_Build_2/static/css/main.dbcd94d8.css",
-    "main.js": "/sofianosss.github.io/Leaflet_Build_2/static/js/main.396f5d53.js",
-    "static/js/453.7cd92a64.chunk.js": "/sofianosss.github.io/Leaflet_Build_2/static/js/453.7cd92a64.chunk.js",
-    "index.html": "/sofianosss.github.io/Leaflet_Build_2/index.html",
-    "main.dbcd94d8.css.map": "/sofianosss.github.io/Leaflet_Build_2/static/css/main.dbcd94d8.css.map",
-    "main.396f5d53.js.map": "/sofianosss.github.io/Leaflet_Build_2/static/js/main.396f5d53.js.map",
-    "453.7cd92a64.chunk.js.map": "/sofianosss.github.io/Leaflet_Build_2/static/js/453.7cd92a64.chunk.js.map"
+    "main.css": "/Leaflet_Build_2/static/css/main.dbcd94d8.css",
+    "main.js": "/Leaflet_Build_2/static/js/main.21db3003.js",
+    "static/js/453.7cd92a64.chunk.js": "/Leaflet_Build_2/static/js/453.7cd92a64.chunk.js",
+    "index.html": "/Leaflet_Build_2/index.html",
+    "main.dbcd94d8.css.map": "/Leaflet_Build_2/static/css/main.dbcd94d8.css.map",
+    "main.21db3003.js.map": "/Leaflet_Build_2/static/js/main.21db3003.js.map",
+    "453.7cd92a64.chunk.js.map": "/Leaflet_Build_2/static/js/453.7cd92a64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dbcd94d8.css",
-    "static/js/main.396f5d53.js"
+    "static/js/main.21db3003.js"
   ]
 }
